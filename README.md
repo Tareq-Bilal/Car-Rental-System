@@ -22,3 +22,5 @@ In today's dynamic world, the demand for flexible and reliable transportation so
 ![Dashboard](https://github.com/user-attachments/assets/f9a4f02d-f1b7-42e6-9a7c-de9b9d6244d3)
 
 ![weOGfkAck7](https://github.com/user-attachments/assets/82b911c4-81a8-44af-8473-19f13c02796d)
+
+![Screenshot 2024-05-13 221534](https://github.com/user-attachments/assets/24fac915-e521-4357-a39b-d50841a70872)
