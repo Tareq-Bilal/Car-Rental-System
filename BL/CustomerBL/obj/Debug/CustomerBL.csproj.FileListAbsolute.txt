@@ -1,0 +1,18 @@
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\bin\Debug\CustomerBL.dll
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\bin\Debug\CustomerBL.pdb
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\bin\Debug\CustomerDL.dll
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\bin\Debug\CustomerDL.pdb
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.AssemblyReference.cache
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.CoreCompileInputs.cache
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.CopyComplete
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.dll
+D:\TAREQ\C# Windows Forms Projects\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.pdb
+D:\Car Rental Project\CustomerBL\bin\Debug\CustomerBL.dll
+D:\Car Rental Project\CustomerBL\bin\Debug\CustomerBL.pdb
+D:\Car Rental Project\CustomerBL\bin\Debug\CustomerDL.dll
+D:\Car Rental Project\CustomerBL\bin\Debug\CustomerDL.pdb
+D:\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.AssemblyReference.cache
+D:\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.CoreCompileInputs.cache
+D:\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.csproj.CopyComplete
+D:\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.dll
+D:\Car Rental Project\CustomerBL\obj\Debug\CustomerBL.pdb
