@@ -6,5 +6,15 @@
 
 In today's dynamic world, the demand for flexible and reliable transportation solutions continues to grow. **Rent Pro** steps in to meet this demand by offering a user-friendly platform where individuals and businesses can effortlessly find, compare, and book rental vehicles tailored to their specific needs.
 
+---
 
+## Functionality
 
+1. **Simple Dashboard**: An intuitive dashboard to monitor and manage key operations.
+2. **Vehicle Management**: Tools for adding, updating, and managing vehicles in the rental fleet.
+3. **Customer Management**: System to manage customer profiles, bookings, and rental history.
+4. **Rental Booking**: Allows users to book vehicles quickly and easily.
+5. **Rental Transaction**: Processes rental payments and records financial transactions.
+6. **Return Vehicle**: Manage the process of vehicle returns, including condition checks and penalties.
+7. **Input Validation and Error Handling**: Ensures that all data input is accurate, with clear error handling for invalid entries.
+8. **Searching and Filtering**: Powerful search tools to find vehicles based on various criteria like price, type, or availability.
