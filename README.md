@@ -1,4 +1,3 @@
-![weOGfkAck7](https://github.com/user-attachments/assets/82b911c4-81a8-44af-8473-19f13c02796d)
 # Rent Pro
 
 ## Summary
@@ -19,3 +18,7 @@ In today's dynamic world, the demand for flexible and reliable transportation so
 6. **Return Vehicle**: Manage the process of vehicle returns, including condition checks and penalties.
 7. **Input Validation and Error Handling**: Ensures that all data input is accurate, with clear error handling for invalid entries.
 8. **Searching and Filtering**: Powerful search tools to find vehicles based on various criteria like price, type, or availability.
+
+![Dashboard](https://github.com/user-attachments/assets/f9a4f02d-f1b7-42e6-9a7c-de9b9d6244d3)
+
+![weOGfkAck7](https://github.com/user-attachments/assets/82b911c4-81a8-44af-8473-19f13c02796d)
